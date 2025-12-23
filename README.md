@@ -1,6 +1,10 @@
 # Ammuccamu! – UX Project Report
 
 Ammuccamu! is a specialized food delivery application designed exclusively for the city of Catania, Italy. Unlike generic delivery platforms, this app focuses on local culinary traditions, offering specialties such as typical sweets, fresh fish from the local "Pescheria," and Catania's signature horse meat.
+In this repo there are 3 files:
+- `Wireframe Ammuccamu!.png`: Complete app's wireframe collection.
+- `Presentazione _Ammuccamu!_.png`: A Figjam screenshot about the process of creation and wireflow structure.
+- `Relazione progetto UX.docx`: A complete documentation about the project, written in italian. 
 
 ## Project Overview
 The project follows a structured UX design process divided into three fundamental phases:
