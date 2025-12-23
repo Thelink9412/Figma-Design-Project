@@ -3,8 +3,8 @@
 Ammuccamu! is a specialized food delivery application designed exclusively for the city of Catania, Italy. Unlike generic delivery platforms, this app focuses on local culinary traditions, offering specialties such as typical sweets, fresh fish from the local "Pescheria," and Catania's signature horse meat.
 
 ## Project Overview
-- The project follows a structured UX design process divided into three fundamental phases:
-- Strategy: Market analysis and positioning.
+The project follows a structured UX design process divided into three fundamental phases:
+- `Strategy`: Market analysis and positioning.
 - Definition: Scope and user stories.
 - Structure: Information architecture and wireframing for three distinct user types.
 
